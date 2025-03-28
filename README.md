@@ -18,8 +18,8 @@ This project is a simple calculator application built using Java Swing.
 - Error handling for basic edge cases
 
 ## Usage
--When you run the application, a calculator window will open.
--Use the number buttons to input numbers.
--Use the operator buttons (+, -, *, /) to perform operations.
--Press the "=" button to see the result.
--Use the "Cl" button to clear the input.
+- When you run the application, a calculator window will open.
+- Use the number buttons to input numbers.
+- Use the operator buttons (+, -, *, /) to perform operations.
+- Press the "=" button to see the result.
+- Use the "Cl" button to clear the input.
